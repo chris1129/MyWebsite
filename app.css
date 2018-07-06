@@ -1,0 +1,28 @@
+#content{
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+    padding-top: 25%;
+}
+body{
+	background: url(https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/19598845_10209919098281789_3711600883317762004_n.jpg?_nc_cat=0&oh=759f8d3defb5829ee11223f861cb8357&oe=5BE248B6);
+	/*background-color: gray;*/
+	background-size: cover;
+	background-position: center ;
+
+	font-family: Lato;
+	color:white;
+}
+html{
+	height: 100%;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;	
+}
+hr{
+	width: 400px;
+	border-top: 1px solid;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
